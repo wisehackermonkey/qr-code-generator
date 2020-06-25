@@ -9,7 +9,7 @@ oranbusiness@gmail.com
 
 [![barcode-cycle-v1.gif](https://i.postimg.cc/L85FgWTJ/barcode-cycle-v1.gif)](https://postimg.cc/XpRzTQtW)
 # Live demo 
-# [Link]()
+# [Link](https://wisehackermonkey.github.io/qr-code-generator/)
 
 # Images from wikipidea on how it works
 
